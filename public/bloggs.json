@@ -1,0 +1,74 @@
+[
+    {
+        "id": "1",
+        "cover": "https: //i.ibb.co.com/93KjbYq/book2.jpg",
+        "title": "into the wild",
+        "auther_img": "https: //i.ibb.co.com/SrXMSQN/auther3.jpg",
+        "posted_date": "2023-09-12",
+        "reading_time": 8,
+        "hashtags": [
+            "#adventure",
+            "#nature"
+        ]
+    },
+    {
+        "id": "2",
+        "cover": "https: //i.ibb.co.com/hKPCXKk/book3.jpg",
+        "title": "urban rhythms",
+        "auther_img": "https: //i.ibb.co.com/Hx5Ns0R/auther2.jpg",
+        "posted_date": "2023-10-01",
+        "reading_time": 6,
+        "hashtags": [
+            "#citylife",
+            "#culture"
+        ]
+    },
+    {
+        "id": "3",
+        "cover": "https: //i.ibb.co.com/2WJBRHy/book.jpg",
+        "title": "climbing heights",
+        "auther_img": "https: //i.ibb.co.com/r5Z8Pdj/auther5.jpg",
+        "posted_date": "2023-08-22",
+        "reading_time": 10,
+        "hashtags": [
+            "#hiking",
+            "#adventure"
+        ]
+    },
+    {
+        "id": "4",
+        "cover": "https: //i.ibb.co.com/ChnyFgq/book4.jpg",
+        "title": "morning brews",
+        "auther_img": "https: //i.ibb.co.com/pywN2DB/auther1.jpg",
+        "posted_date": "2023-09-15",
+        "reading_time": 5,
+        "hashtags": [
+            "#coffeelovers",
+            "#morning"
+        ]
+    },
+    {
+        "id": "5",
+        "cover": "https: //i.ibb.co.com/qmPdwKK/book5.jpg",
+        "title": "chasing horizons",
+        "auther_img": "https: //i.ibb.co.com/NL5r0Q5/auther4.jpg",
+        "posted_date": "2023-07-30",
+        "reading_time": 7,
+        "hashtags": [
+            "#travel",
+            "#inspiration"
+        ]
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
